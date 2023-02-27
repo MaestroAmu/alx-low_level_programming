@@ -1,6 +1,6 @@
 # C - More functions, more nested loops
 
-## Header File :file_folder:
+## Header File
 
 * [main.h](./main.h): Header file containing prototypes for all functions written in the project.
 
