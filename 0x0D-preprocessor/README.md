@@ -1,9 +1,6 @@
 # C - Preprocessor
 
-In this project, I learned about common predefined macros in C while
-practicing implementing my own and include-guarding header files.
-
-## Tasks :page_with_curl:
+## Tasks
 
 * **0. Object-like Macro**
   * [0-object_like_macro.h](./0-object_like_macro.h): Header file that defines a
