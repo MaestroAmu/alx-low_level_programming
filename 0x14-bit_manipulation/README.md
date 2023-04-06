@@ -1,9 +1,6 @@
 # C - Bit manipulation
 
-In this project, I learned how to manipulate bits and use the
-bitwise operators `>>`, `<<`, `&`, `|`, and `^` in C.
-
-## Header File :file_folder:
+## Header File
 
 * [main.h](./main.h): Header file containing prototypes for all
 functions written in the project.
@@ -18,8 +15,7 @@ functions written in the project.
 | `5-flip_bits.c`        | `unsigned int flip_bits(unsigned long int n, unsigned long int m);` |
 | `100-get_endianness.c` | `int get_endianness(void);`                                         |
 
-## Tasks :page_with_curl:
-
+## Tasks
 * **0. 0**
   * [0-binary_to_uint.c](./0-binary_to_uint.c): C function that converts a binary number
   to an `unsigned int`.
