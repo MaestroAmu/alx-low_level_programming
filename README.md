@@ -27,3 +27,4 @@ algorithm track in the ALX Software Engineering Program. The specific list of pr
 * [0x15. C - File I/O](./0x15-file_io)
 * [0x16. C - Simple Shell](https://github.com/MaestroAmu/simple_shell/)
 * [0x17. C - Doubly linked lists](./0x17-doubly_linked_lists)
+* [0x18. C - Dynamic libraries](./0x18-dynamic_libraries)
