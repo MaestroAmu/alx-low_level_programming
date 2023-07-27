@@ -30,4 +30,5 @@ algorithm track in the ALX Software Engineering Program. The specific list of pr
 * [0x18. C - Dynamic libraries](./0x18-dynamic_libraries)
 * [0x19. C - Stacks, Queues - LIFO, FIFO](https://github.com/MaestroAmu/monty)
 * [0x1A. C - Hash tables](./0x1A-hash_tables)
+* [0x1B. C - Sorting algorithms & Big O](https://github.com/MaestroAmu/sorting_algorithms)
 * [0x1C. C - Makefiles](./0x1C-makefiles)
