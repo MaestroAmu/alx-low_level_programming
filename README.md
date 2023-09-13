@@ -32,3 +32,9 @@ algorithm track in the ALX Software Engineering Program. The specific list of pr
 * [0x1A. C - Hash tables](./0x1A-hash_tables)
 * [0x1B. C - Sorting algorithms & Big O](https://github.com/MaestroAmu/sorting_algorithms)
 * [0x1C. C - Makefiles](./0x1C-makefiles)
+* [0x1D. C - Binary trees](https://github.com/aysuarex/binary_trees/tree/main)
+* [0x1E. C - Search Algorithms](./0x1E-search_algorithms)
+
+## Acknowledgements
+
+All work contained in this project was completed as part of the curriculum for the ALX-SE programme.
